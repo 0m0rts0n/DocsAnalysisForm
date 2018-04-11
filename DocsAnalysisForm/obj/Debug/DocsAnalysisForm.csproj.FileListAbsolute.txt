@@ -1,0 +1,26 @@
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\bin\Debug\DocsAnalysisForm.exe.config
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\bin\Debug\DocsAnalysisForm.exe
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\bin\Debug\DocsAnalysisForm.pdb
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\bin\Debug\YandexMystem.Wrapper.dll
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.csprojResolveAssemblyReference.cache
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.DocsAnalysisForm.resources
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.Properties.Resources.resources
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.csproj.GenerateResource.Cache
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.exe
+C:\Users\Давид v 2.0\Documents\Visual Studio 2015\Projects\DocsAnalysisForm\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.pdb
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\bin\Debug\DocsAnalysisForm.exe.config
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\bin\Debug\DocsAnalysisForm.exe
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\bin\Debug\DocsAnalysisForm.pdb
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\bin\Debug\YandexMystem.Wrapper.dll
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.csprojResolveAssemblyReference.cache
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.DocsAnalysisForm.resources
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.Properties.Resources.resources
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.csproj.GenerateResource.cache
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.csproj.CoreCompileInputs.cache
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.csproj.CopyComplete
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.exe
+C:\Users\N0STR0M0\Downloads\DocsAnalysisForm-master\DocsAnalysisForm-master\DocsAnalysisForm\obj\Debug\DocsAnalysisForm.pdb
